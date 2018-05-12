@@ -1,10 +1,16 @@
 _repo: Die-Universitat-Basel-in-den-funfzig-Jahren-seit-ihrer-Reorganisation-im-Jahre-1835_50937
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50937-h/images/cover.jpg
 creator:
   author:
     agent_name: Teichmann, Albert
     gutenberg_agent_id: '46151'
     url: http://www.gutenberg.org/2009/agents/46151
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50937#Die-Universitat-Basel-in-den-funfzig-Jahren-seit-ihrer-Reorganisation-im-Jahre-1835
 gutenberg_issued: '2016-01-15'
 gutenberg_type: Text
 identifiers:
